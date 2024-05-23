@@ -1,8 +1,10 @@
 ## Aplicación con React
 
-[![alt text](public/heroes/Proyect-B.png)]
+[![alt text](public/heroes/Proyect-B.png)](https://github.com/tu-usuario/nombre-del-proyecto)
 
-[![Deploy](https://project-b-spa-react-js.netlify.app)]
+[![Deploy](https://img.shields.io/badge/Deploy-Netlify-blue)](https://project-b-spa-react-js.netlify.app)
+
+
 
 ### Descripción
 
@@ -50,5 +52,7 @@ src/
 Página de inicio : Accesible en la URL raíz ( http://localhost:3000).
 
    
+
+
 
 
